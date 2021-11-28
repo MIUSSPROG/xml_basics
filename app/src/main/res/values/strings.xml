@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">xml_basics</string>
+    <string name="welcome_text">Hello World!</string>
+</resources>
